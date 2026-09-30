@@ -1,0 +1,16 @@
+#Config
+#Fri Dec 26 17:44:23 BRT 2025
+cfg.ancorador=true
+cfg.autosalvarintervalo=5
+cfg.mostrargrade=true
+cfg.apagartextoaoeditar=true
+cfg.location.y=78
+cfg.location.x=-71
+cfg.mostrardimensoesaomover=true
+cfg.gradelargura=23
+cfg.mostrartooltips=true
+cfg.tipodefault=0
+cfg.mostrarids=false
+cfg.recentes=
+cfg.location.salvar=true
+cfg.propaguedeletetolines=true
